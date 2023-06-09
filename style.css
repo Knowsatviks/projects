@@ -1,0 +1,18 @@
+body{
+    background-color:antiquewhite
+}
+.myimg{
+    border-radius: 50%;
+    width: auto;
+}
+.leftbackground{
+    background-color:darkslategrey;
+    background-attachment: fixed;
+
+}
+.cardBackground{
+    background-color:darkslategrey;
+}
+#cv-template{
+   display: none;
+}
